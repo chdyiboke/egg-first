@@ -1,0 +1,28 @@
+2020-06-23 11:47:17,877 INFO 87602 [egg:logger] init all loggers with options: {"dir":"/Users/caiyi/work/github/egg-example/logs/egg-first","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-first-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-23 11:47:17,907 INFO 87602 [egg-multipart] stream mode enable
+2020-06-23 11:47:17,974 INFO 87602 [egg-static] starting static serve /public/ -> /Users/caiyi/work/github/egg-example/app/public
+2020-06-23 11:47:17,977 INFO 87602 [egg-security] use csrf middleware
+2020-06-23 11:47:17,978 INFO 87602 [egg-security] use methodnoallow middleware
+2020-06-23 11:47:17,979 INFO 87602 [egg-security] use noopen middleware
+2020-06-23 11:47:17,980 INFO 87602 [egg-security] use nosniff middleware
+2020-06-23 11:47:17,980 INFO 87602 [egg-security] use xssProtection middleware
+2020-06-23 11:47:17,981 INFO 87602 [egg-security] use xframe middleware
+2020-06-23 11:47:17,982 INFO 87602 [egg-security] use dta middleware
+2020-06-23 11:47:17,982 INFO 87602 [egg-security] compose 7 middlewares into one security middleware
+2020-06-23 11:47:17,992 INFO 87602 [egg:core] dump config after load, 6ms
+2020-06-23 11:47:18,007 INFO 87602 [egg-watcher:application] watcher start success
+2020-06-23 11:47:18,014 INFO 87602 [egg:core] dump config after ready, 4ms
+2020-06-23 12:01:10,265 INFO 88372 [egg:logger] init all loggers with options: {"dir":"/Users/caiyi/work/github/egg-example/logs/egg-first","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-first-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-23 12:01:10,298 INFO 88372 [egg-multipart] stream mode enable
+2020-06-23 12:01:10,361 INFO 88372 [egg-static] starting static serve /public/ -> /Users/caiyi/work/github/egg-example/app/public
+2020-06-23 12:01:10,366 INFO 88372 [egg-security] use csrf middleware
+2020-06-23 12:01:10,367 INFO 88372 [egg-security] use methodnoallow middleware
+2020-06-23 12:01:10,367 INFO 88372 [egg-security] use noopen middleware
+2020-06-23 12:01:10,368 INFO 88372 [egg-security] use nosniff middleware
+2020-06-23 12:01:10,368 INFO 88372 [egg-security] use xssProtection middleware
+2020-06-23 12:01:10,368 INFO 88372 [egg-security] use xframe middleware
+2020-06-23 12:01:10,369 INFO 88372 [egg-security] use dta middleware
+2020-06-23 12:01:10,369 INFO 88372 [egg-security] compose 7 middlewares into one security middleware
+2020-06-23 12:01:10,378 INFO 88372 [egg:core] dump config after load, 5ms
+2020-06-23 12:01:10,391 INFO 88372 [egg-watcher:application] watcher start success
+2020-06-23 12:01:10,397 INFO 88372 [egg:core] dump config after ready, 4ms

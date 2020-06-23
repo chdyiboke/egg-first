@@ -1,0 +1,293 @@
+{
+  "keys": "/Users/caiyi/work/github/egg-example/config/config.default.js",
+  "middleware": "/Users/caiyi/work/github/egg-example/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/caiyi/work/github/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/caiyi/work/github/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/caiyi/work/github/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/caiyi/work/github/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/caiyi/work/github/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/caiyi/work/github/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/caiyi/work/github/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/caiyi/work/github/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/caiyi/work/github/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/caiyi/work/github/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/caiyi/work/github/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/caiyi/work/github/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/caiyi/work/github/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/caiyi/work/github/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/caiyi/work/github/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/caiyi/work/github/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/caiyi/work/github/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/caiyi/work/github/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/caiyi/work/github/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/caiyi/work/github/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/caiyi/work/github/egg-example/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/caiyi/work/github/egg-example/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/caiyi/work/github/egg-example/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/caiyi/work/github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/caiyi/work/github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/caiyi/work/github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/caiyi/work/github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/caiyi/work/github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/caiyi/work/github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/caiyi/work/github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/caiyi/work/github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/caiyi/work/github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/caiyi/work/github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/caiyi/work/github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/caiyi/work/github/egg-example/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/caiyi/work/github/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/caiyi/work/github/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/caiyi/work/github/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/caiyi/work/github/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/caiyi/work/github/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/caiyi/work/github/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/caiyi/work/github/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/caiyi/work/github/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/caiyi/work/github/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/caiyi/work/github/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/caiyi/work/github/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/caiyi/work/github/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/caiyi/work/github/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/caiyi/work/github/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/caiyi/work/github/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/caiyi/work/github/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/caiyi/work/github/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/caiyi/work/github/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/caiyi/work/github/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/caiyi/work/github/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/caiyi/work/github/egg-example/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/caiyi/work/github/egg-example/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/caiyi/work/github/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "private": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "stop": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "dev": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "debug": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "test": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "cov": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "lint": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "ci": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "autod": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "url": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "logging": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "port": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/caiyi/work/github/egg-example/node_modules/egg/config/config.default.js"
+}

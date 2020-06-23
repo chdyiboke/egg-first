@@ -1,0 +1,9 @@
+2020-06-23 11:47:18,021 INFO 87601 [Timer] /Users/caiyi/work/github/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 60161983ms at 2020-06-24 04:30:00.004
+2020-06-23 11:47:18,022 INFO 87601 [Timer] /Users/caiyi/work/github/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 43961978ms at 2020-06-24 00:00:00.000
+2020-06-23 11:47:18,022 INFO 87601 [Timer] /Users/caiyi/work/github/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 43962978ms at 2020-06-24 00:00:01.000
+2020-06-23 11:47:17,906 INFO 87602 [egg-schedule]: register schedule /Users/caiyi/work/github/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-23 11:47:17,906 INFO 87602 [egg-schedule]: register schedule /Users/caiyi/work/github/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-06-23 11:47:17,906 INFO 87602 [egg-schedule]: register schedule /Users/caiyi/work/github/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-23 12:01:10,298 INFO 88372 [egg-schedule]: register schedule /Users/caiyi/work/github/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-23 12:01:10,298 INFO 88372 [egg-schedule]: register schedule /Users/caiyi/work/github/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-06-23 12:01:10,298 INFO 88372 [egg-schedule]: register schedule /Users/caiyi/work/github/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
